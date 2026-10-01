@@ -1,6 +1,8 @@
 # quantum-project
 My first quantum project – running quantum circuits using IBM Quantum Hardware.
 
+**Note: This project is put on hold because of university.**
+
 ## IBM Quantum Open Plan — Free Tier Limits
 
 - Limits: 10 minutes/28 days. Available backends: ibm_fez, ibm_barrakesh, ibm_kingston
